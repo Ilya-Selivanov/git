@@ -1,2 +1,3 @@
 Initial commit
 feature 1 utils classes/ fixed
+feature 3 profile screen/ add architecture screen
