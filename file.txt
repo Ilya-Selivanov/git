@@ -1,1 +1,6 @@
 Initial commit
+feature 1 utils classes/ fixed
+<<<<<<< HEAD
+feature 3 profile screen/ add architecture screen
+feature 2 users list screen/ add required component
+
